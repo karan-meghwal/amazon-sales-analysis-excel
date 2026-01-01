@@ -51,6 +51,8 @@ Q1. What is the month-over-month (MoM) and year-over-year (YoY) growth?
 
 <img width="1044" height="511" alt="Screenshot 2026-01-01 at 8 32 16 PM" src="https://github.com/user-attachments/assets/af10349f-a651-4709-a76d-bcadb532f0f0" />
 
+
+
 Q2. Which 3 factors are driving revenue the most?
 
 <img width="920" height="433" alt="Screenshot 2026-01-01 at 8 44 18 PM" src="https://github.com/user-attachments/assets/f76cd376-7d16-488d-9695-b5c89038ee49" />
