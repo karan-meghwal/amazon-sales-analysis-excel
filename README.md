@@ -17,7 +17,7 @@ Row data: https://www.kaggle.com/datasets/karanmeghwal/row-data-of-amazon-sales-
 Business Problem
 
 Amazon sellers deal with large volumes of transactional data but often lack clarity on:
-	•	Which product categories generate the highest revenue?
+	                                                                                                 •	Which product categories generate the highest revenue?
 	•	Which products contribute most to overall sales performance?
 	•	How do sales trends vary over time?
 	•	Where should the seller focus inventory and marketing efforts?
