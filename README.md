@@ -2,4 +2,4 @@
 Business analysis of Amazon sales data using Excel
 
 ## 📊 DATA 
-Ro data: https://www.kaggle.com/datasets/karanmeghwal/row-data-of-amazon-sales-analysis
+Row data: https://www.kaggle.com/datasets/karanmeghwal/row-data-of-amazon-sales-analysis
