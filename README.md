@@ -3,10 +3,9 @@ Business analysis of Amazon sales data using Excel
 
 
 
-![L&#39;application Amazon a changé de logo 2 fois en…](https://github.com/user-attachments/assets/371b2fbe-318e-42aa-b4ad-e20039d6cc99)
 
 
-
+![amazon Logo PNG Vector (SVG) Free Download](https://github.com/user-attachments/assets/7dfb4199-028c-4602-9b39-94f646e9dfaf)
 
 
 
