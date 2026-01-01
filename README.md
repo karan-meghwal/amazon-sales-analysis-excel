@@ -1,6 +1,24 @@
 # amazon-sales-analysis-excel
 Business analysis of Amazon sales data using Excel
 
+
+
+![L&#39;application Amazon a changé de logo 2 fois en…](https://github.com/user-attachments/assets/371b2fbe-318e-42aa-b4ad-e20039d6cc99)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Project Overview
 
 This project analyzes Amazon sales data to evaluate product performance, revenue trends, and category-level profitability. The objective is to transform raw transactional data into actionable business insights that support data-driven decision-making for an Amazon seller.
