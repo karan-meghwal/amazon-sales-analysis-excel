@@ -57,3 +57,9 @@ Q2. Which 3 factors are driving revenue the most?
 Q3. Which products/categories generate the most revenue?
 
 <img width="920" height="433" alt="Screenshot 2026-01-01 at 8 44 18 PM" src="https://github.com/user-attachments/assets/f76cd376-7d16-488d-9695-b5c89038ee49" />
+
+
+Q.3 What % of total revenue comes from the top 20% products?
+
+-- % of total revenue comes from the top 20% products.
+<img width="1196" height="546" alt="Screenshot 2026-01-02 at 8 03 26 PM" src="https://github.com/user-attachments/assets/cb189b34-c1a0-48b7-8649-43d37d97b6c6" />
