@@ -59,18 +59,18 @@ TREND BY MONTHS -
 
 
 <img width="1075" height="584" alt="Screenshot 2026-01-02 at 8 47 23 PM" src="https://github.com/user-attachments/assets/4b379dbf-36e9-4f9c-b373-578516fd6465" />
-
+WE CAN SEE IT IS DOWN TREND MONTH FROM MARCH TO 
 
 TREND BY DAYS -
 
 <img width="1135" height="704" alt="Screenshot 2026-01-02 at 8 49 49 PM" src="https://github.com/user-attachments/assets/cb775657-1c49-4631-b08f-59906a77a470" />
 
-## B.Category Performance
+## B. Category Performance
 Q2. Which product categories generate the highest revenue? 
 
 
 
 <img width="987" height="481" alt="Screenshot 2026-01-02 at 8 56 36 PM" src="https://github.com/user-attachments/assets/a6d5832a-a245-45d1-bcff-92bed7a4d70f" />
 
-
- 
+## C. Order Status Impact
+ How do order statuses (Shipped vs Cancelled) impact total revenue?
