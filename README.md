@@ -46,7 +46,7 @@ CLEANED DATA: https://www.kaggle.com/datasets/karanmeghwal/cleaned-amazon-sales
 
 ## BUISNESS ANALYSIS 
 
-1. Business Performance 
+## 1.Business Performance 
 Q1. What is the month-over-month (MoM) and year-over-year (YoY) growth?
 
 <img width="1044" height="511" alt="Screenshot 2026-01-01 at 8 32 16 PM" src="https://github.com/user-attachments/assets/af10349f-a651-4709-a76d-bcadb532f0f0" />
