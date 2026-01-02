@@ -46,20 +46,32 @@ CLEANED DATA: https://www.kaggle.com/datasets/karanmeghwal/cleaned-amazon-sales
 
 ## BUISNESS ANALYSIS 
 
-## 1.Business Performance 
-Q1. What is the month-over-month (MoM) and year-over-year (YoY) growth?
+ ## A. Overall Sales Performance
+ Q1. What is the total revenue and how does it trend over time?
+ Ans- first i clear cancelled payment in amount then i calculate "Sum of final revenue" in new column "Final revenue".
 
-<img width="1044" height="511" alt="Screenshot 2026-01-01 at 8 32 16 PM" src="https://github.com/user-attachments/assets/af10349f-a651-4709-a76d-bcadb532f0f0" />
+ TOTAL REVENUE -
+ 
+ 
+ <img width="1077" height="571" alt="Screenshot 2026-01-02 at 8 45 42 PM" src="https://github.com/user-attachments/assets/05f88619-b92b-44c8-8eeb-1678cc07420b" />
 
-## 2.Revenue & Sales Analysis
-
-Q2. Which 3 factors are driving revenue the most?
-Q3. Which products/categories generate the most revenue?
-
-<img width="920" height="433" alt="Screenshot 2026-01-01 at 8 44 18 PM" src="https://github.com/user-attachments/assets/f76cd376-7d16-488d-9695-b5c89038ee49" />
+TREND BY MONTHS - 
 
 
-Q.3 What % of total revenue comes from the top 20% products?
+<img width="1075" height="584" alt="Screenshot 2026-01-02 at 8 47 23 PM" src="https://github.com/user-attachments/assets/4b379dbf-36e9-4f9c-b373-578516fd6465" />
 
--- % of total revenue comes from the top 20% products.
-<img width="1196" height="546" alt="Screenshot 2026-01-02 at 8 03 26 PM" src="https://github.com/user-attachments/assets/cb189b34-c1a0-48b7-8649-43d37d97b6c6" />
+
+TREND BY DAYS -
+
+<img width="1135" height="704" alt="Screenshot 2026-01-02 at 8 49 49 PM" src="https://github.com/user-attachments/assets/cb775657-1c49-4631-b08f-59906a77a470" />
+
+
+
+
+
+
+
+
+
+
+ 
