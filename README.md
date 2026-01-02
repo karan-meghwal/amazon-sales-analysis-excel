@@ -65,13 +65,12 @@ TREND BY DAYS -
 
 <img width="1135" height="704" alt="Screenshot 2026-01-02 at 8 49 49 PM" src="https://github.com/user-attachments/assets/cb775657-1c49-4631-b08f-59906a77a470" />
 
+## B.Category Performance
+Q2. Which product categories generate the highest revenue? 
 
 
 
-
-
-
-
+<img width="987" height="481" alt="Screenshot 2026-01-02 at 8 56 36 PM" src="https://github.com/user-attachments/assets/a6d5832a-a245-45d1-bcff-92bed7a4d70f" />
 
 
  
