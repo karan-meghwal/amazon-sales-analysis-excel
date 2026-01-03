@@ -50,32 +50,31 @@ CLEANED DATA: https://www.kaggle.com/datasets/karanmeghwal/cleaned-amazon-sales
  Q1. What is the total revenue and how does it trend over time?
  Ans- first i clear cancelled payment in amount then i calculate "Sum of final revenue" in new column "Final revenue".
 
- TOTAL REVENUE -
+ (1) TOTAL REVENUE -
  Total revenue is 6.95 Cr.
  
  <img width="1077" height="571" alt="Screenshot 2026-01-02 at 8 45 42 PM" src="https://github.com/user-attachments/assets/05f88619-b92b-44c8-8eeb-1678cc07420b" />
 
-TREND BY MONTHS - 
+(2) TREND BY MONTHS - We can see a downward trend from March to June.
 
 
 <img width="1075" height="584" alt="Screenshot 2026-01-02 at 8 47 23 PM" src="https://github.com/user-attachments/assets/4b379dbf-36e9-4f9c-b373-578516fd6465" />
- We can see a downward trend from March to June.
+ 
 
-DAILY TREND -
+(3) DAILY TREND -
 We can see in the image that the daily trend goes up and down
 <img width="1135" height="704" alt="Screenshot 2026-01-02 at 8 49 49 PM" src="https://github.com/user-attachments/assets/cb775657-1c49-4631-b08f-59906a77a470" />
 
 ## B. Category Performance
 Q2. Which product categories generate the highest revenue? 
 
-we can see that "set" category generated highest revenue.
+Ans - we can see that "set" category generated highest revenue.
 
 <img width="987" height="481" alt="Screenshot 2026-01-02 at 8 56 36 PM" src="https://github.com/user-attachments/assets/a6d5832a-a245-45d1-bcff-92bed7a4d70f" />
 
 ## C. Order Status Impact
- How do order statuses (Shipped vs Cancelled) impact total revenue?
-
-PivotTable and chart showing revenue loss from cancellations and delivery performance.
+ Q.3 How do order statuses (Shipped vs Cancelled) impact total revenue?
+Ans - PivotTable and chart showing revenue loss from cancellations and delivery performance.
 
 <img width="1356" height="582" alt="Screenshot 2026-01-02 at 9 12 02 PM" src="https://github.com/user-attachments/assets/06ebc0eb-da4e-49e5-89f3-c05fae54372f" />
 
