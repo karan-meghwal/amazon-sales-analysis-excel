@@ -78,7 +78,22 @@ Ans - we can see that "set" category generated highest revenue.
 
 
 
-Ans - PivotTable and chart showing revenue loss from cancellations and delivery performance.
+Ans - 
+
+
+Sum of Amount → Revenue before cancellations and returns (gross order value).
+
+Sum of final Revenue → Revenue after cancellations and return adjustments (net realized revenue).
+	
+	
+	•	Total potential revenue (before cancellation & returns): ₹7.59 Crore
+	•	Actual revenue realized (after cancellation & returns): ₹6.95 Crore
+
+👉 Revenue loss due to cancellations & returns: ₹64.6 Lakh
+
+
+
+PivotTable and chart showing revenue loss from cancellations and delivery performance.
 
 <img width="1356" height="582" alt="Screenshot 2026-01-02 at 9 12 02 PM" src="https://github.com/user-attachments/assets/06ebc0eb-da4e-49e5-89f3-c05fae54372f" />
 
