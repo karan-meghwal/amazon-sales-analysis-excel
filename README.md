@@ -74,6 +74,10 @@ Ans - we can see that "set" category generated highest revenue.
 
 ## C. Order Status Impact
  Q.3 How do order statuses (Shipped vs Cancelled) impact total revenue?
+
+
+
+
 Ans - PivotTable and chart showing revenue loss from cancellations and delivery performance.
 
 <img width="1356" height="582" alt="Screenshot 2026-01-02 at 9 12 02 PM" src="https://github.com/user-attachments/assets/06ebc0eb-da4e-49e5-89f3-c05fae54372f" />
