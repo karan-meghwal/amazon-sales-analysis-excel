@@ -98,3 +98,15 @@ PivotTable and chart showing revenue loss from cancellations and delivery perfor
 <img width="1356" height="582" alt="Screenshot 2026-01-02 at 9 12 02 PM" src="https://github.com/user-attachments/assets/06ebc0eb-da4e-49e5-89f3-c05fae54372f" />
 
 
+## D. Cancellation Analysis
+
+Q.4 Which categories have the highest cancellation rates?
+
+Ans - "Set" category has highest cancellation rates "14.59%" and the lowest cancellaton category is "Dupatta" "0.00%".
+
+
+<img width="1372" height="478" alt="Screenshot 2026-01-03 at 7 46 48 PM" src="https://github.com/user-attachments/assets/e9bd57d7-ae45-438a-b6c7-496ddaf28e15" />
+
+
+
+
