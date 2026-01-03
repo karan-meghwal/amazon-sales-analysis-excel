@@ -130,7 +130,12 @@ Lowest revenue-generating and lowest number of orders state is Haryana, with ₹
 
 
 
+## F. Average Order Value (AOV)
 
+Q.6 How does average order value vary by category and state?
+
+
+<img width="923" height="375" alt="Screenshot 2026-01-03 at 9 07 27 PM" src="https://github.com/user-attachments/assets/868644cc-dd38-45dd-b8fe-0b96bd7c08cc" />
 
 
 
