@@ -108,5 +108,35 @@ Ans - "Set" category has highest cancellation rates "14.59%" and the lowest canc
 <img width="1372" height="478" alt="Screenshot 2026-01-03 at 7 46 48 PM" src="https://github.com/user-attachments/assets/e9bd57d7-ae45-438a-b6c7-496ddaf28e15" />
 
 
+## E. Geographic Performance
+
+
+Q.5 Which top 10 states contribute the most to revenue and total orders?
+
+Ans - We have grand total revenue is "₹5.64Cr" from "1.02 lakh" orders
+
+ Highest revenue-generating and highest number of orders state is Maharashtra, with ₹1.22 crore from 22,259 orders.
+
+
+Lowest revenue-generating and lowest number of orders state is Haryana, with ₹26.5 lakh from 4,415 orders.
+
+
+
+
+
+<img width="1400" height="414" alt="Screenshot 2026-01-03 at 8 24 12 PM" src="https://github.com/user-attachments/assets/3b693f42-ff38-4c8c-9de7-7efc9392c285" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
