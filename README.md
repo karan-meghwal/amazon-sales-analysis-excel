@@ -51,7 +51,7 @@ CLEANED DATA: https://www.kaggle.com/datasets/karanmeghwal/cleaned-amazon-sales
  Ans- first i clear cancelled payment in amount then i calculate "Sum of final revenue" in new column "Final revenue".
 
  TOTAL REVENUE -
- 
+ Total revenue is 6.95 Cr.
  
  <img width="1077" height="571" alt="Screenshot 2026-01-02 at 8 45 42 PM" src="https://github.com/user-attachments/assets/05f88619-b92b-44c8-8eeb-1678cc07420b" />
 
