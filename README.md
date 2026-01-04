@@ -48,6 +48,7 @@ CLEANED DATA: https://www.kaggle.com/datasets/karanmeghwal/cleaned-amazon-sales
 
  ## A. Overall Sales Performance
  Q1. What is the total revenue and how does it trend over time?
+
  Ans- first i clear cancelled payment in amount then i calculate "Sum of final revenue" in new column "Final revenue".
 
  (1) TOTAL REVENUE -
