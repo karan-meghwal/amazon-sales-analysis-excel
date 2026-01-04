@@ -8,41 +8,19 @@ Business analysis of Amazon sales data using Excel
 ![amazon Logo PNG Vector (SVG) Free Download](https://github.com/user-attachments/assets/7dfb4199-028c-4602-9b39-94f646e9dfaf)
 
 
-
-
-
-
-
-
-
-
-
-
 Project Overview
 
-This project analyzes Amazon sales data to evaluate product performance, revenue trends, and category-level profitability. The objective is to transform raw transactional data into actionable business insights that support data-driven decision-making for an Amazon seller.
+Amazon sellers operate in a highly competitive environment where revenue performance is influenced by product mix, customer behavior, and fulfillment efficiency. Order cancellations and regional demand variation can significantly impact realized revenue.
 
-The analysis was performed entirely in Microsoft Excel, using structured data cleaning, pivot tables, and dashboard-style summaries.
+The objective of this analysis is to evaluate sales performance, quantify revenue loss due to cancellations, and identify category- and region-level opportunities to improve net revenue and operational decision-making.
 
-## 📊 DATA 
+The analysis is based on cleaned Amazon sales transaction data and examines trends across time, product categories, order status, and geography.
 
-## amazon_sales_raw.xlsx
-Row data: https://www.kaggle.com/datasets/karanmeghwal/row-data-of-amazon-sales-analysis
-
-BEFORE ANALYSIS , WE NEED TO CLEAN DATA 
-
-Data Cleaning & Preparation (Excel)
-
-The dataset was cleaned and prepared using standard Excel best practices:
-	•	Removed duplicate transaction records
-	•	Handled missing/null values
-	•	Standardized date formats
-	•	Corrected inconsistent category and product naming
-	•	Converted raw data into structured tables for analysis
-
-These steps ensured accuracy and reliability before performing any analysis.
-
-CLEANED DATA: https://www.kaggle.com/datasets/karanmeghwal/cleaned-amazon-sales
+Executive Snapshot
+	•	Net revenue after cancellations: ₹6.95 Cr
+	•	Revenue loss from cancellations and returns: ₹64.6 lakh
+	•	Set category contributes the highest revenue but also shows elevated cancellation risk
+	•	Maharashtra leads sales performance, highlighting opportunities for region-specific optimization
 
 ## BUISNESS QUSTIONS  
 
