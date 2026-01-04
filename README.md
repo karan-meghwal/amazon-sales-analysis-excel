@@ -44,57 +44,52 @@ These steps ensured accuracy and reliability before performing any analysis.
 
 CLEANED DATA: https://www.kaggle.com/datasets/karanmeghwal/cleaned-amazon-sales
 
-## BUISNESS ANALYSIS 
+## BUISNESS QUSTIONS  
 
  ## A. Overall Sales Performance
  Q1. What is the total revenue and how does it trend over time?
 
- Ans- first i clear cancelled payment in amount then i calculate "Sum of final revenue" in new column "Final revenue".
+Key Finding -
+Total net revenue after cancellations is ₹6.95 Cr. Revenue peaked in April (₹2.59 Cr) and declined to ₹1.98 Cr by June, a drop of approximately 23%.
 
- (1) TOTAL REVENUE -
- Total revenue is 6.95 Cr.
- 
- <img width="1077" height="571" alt="Screenshot 2026-01-02 at 8 45 42 PM" src="https://github.com/user-attachments/assets/05f88619-b92b-44c8-8eeb-1678cc07420b" />
+Interpretation -
+The consistent month-on-month decline indicates either seasonal demand drop, increasing cancellations, or weaker repeat purchases toward Q2.
 
-(2) TREND BY MONTHS - We can see a downward trend from March to June.
+
 
 
 <img width="1075" height="584" alt="Screenshot 2026-01-02 at 8 47 23 PM" src="https://github.com/user-attachments/assets/4b379dbf-36e9-4f9c-b373-578516fd6465" />
- 
 
-(3) DAILY TREND -
-We can see in the image that the daily trend goes up and down
-<img width="1135" height="704" alt="Screenshot 2026-01-02 at 8 49 49 PM" src="https://github.com/user-attachments/assets/cb775657-1c49-4631-b08f-59906a77a470" />
+Business Action -
+The business should introduce mid-quarter promotions and closely monitor cancellation drivers starting May to prevent prolonged revenue decline.
 
 ## B. Category Performance
 Q2. Which product categories generate the highest revenue? 
 
-Ans - we can see that "set" category generated highest revenue.
+Key Finding -
+The Set category contributes approximately 49% of total revenue, making it the primary revenue driver. Kurta and Western Dress follow at a significantly lower contribution.
+
+Interpretation -
+Revenue concentration in a single category increases business risk, especially if that category underperforms or faces supply issues.
+
+Business Action -
+While Set should remain a priority category, the business should diversify revenue streams by strengthening Kurta and Western Dress offerings.
+
 
 <img width="987" height="481" alt="Screenshot 2026-01-02 at 8 56 36 PM" src="https://github.com/user-attachments/assets/a6d5832a-a245-45d1-bcff-92bed7a4d70f" />
 
 ## C. Order Status Impact
  Q.3 How do order statuses (Shipped vs Cancelled) impact total revenue?
 
+Key Finding -
+Gross order value before cancellations was ₹7.59 Cr, while net realized revenue dropped to ₹6.95 Cr, resulting in a revenue loss of ₹64.6 lakh.
 
+Interpretation -
+Nearly 8.5% of potential revenue is lost due to cancellations and returns, directly impacting profitability without generating value.
 
+Business Action -
+Even a 2% reduction in cancellation rate could recover an estimated ₹14–15 lakh in revenue, making cancellation control a high-impact focus area.
 
-Ans - 
-
-
-Sum of Amount → Revenue before cancellations and returns (gross order value).
-
-Sum of final Revenue → Revenue after cancellations and return adjustments (net realized revenue).
-	
-	
-	•	Total potential revenue (before cancellation & returns): ₹7.59 Crore
-	•	Actual revenue realized (after cancellation & returns): ₹6.95 Crore
-
-👉 Revenue loss due to cancellations & returns: ₹64.6 Lakh
-
-
-
-PivotTable and chart showing revenue loss from cancellations and delivery performance.
 
 <img width="1356" height="582" alt="Screenshot 2026-01-02 at 9 12 02 PM" src="https://github.com/user-attachments/assets/06ebc0eb-da4e-49e5-89f3-c05fae54372f" />
 
@@ -103,7 +98,14 @@ PivotTable and chart showing revenue loss from cancellations and delivery perfor
 
 Q.4 Which categories have the highest cancellation rates?
 
-Ans - "Set" category has highest cancellation rates "14.59%" and the lowest cancellaton category is "Dupatta" "0.00%".
+Key Finding -
+The Set category shows the highest cancellation rate (14.59%), despite being the top revenue contributor.
+
+Interpretation -
+This indicates that high sales volume is masking underlying issues such as size mismatch, product expectations, or delivery delays.
+
+Business Action -
+Improving product descriptions, size charts, and delivery timelines in the Set category could significantly reduce cancellations without affecting demand.
 
 
 <img width="1372" height="478" alt="Screenshot 2026-01-03 at 7 46 48 PM" src="https://github.com/user-attachments/assets/e9bd57d7-ae45-438a-b6c7-496ddaf28e15" />
@@ -114,14 +116,14 @@ Ans - "Set" category has highest cancellation rates "14.59%" and the lowest canc
 
 Q.5 Which top 10 states contribute the most to revenue and total orders?
 
-Ans - We have grand total revenue is "₹5.64Cr" from "1.02 lakh" orders
+Key Finding -
+Maharashtra leads with ₹1.22 Cr revenue from 22,259 orders, while Haryana generates ₹26.5 lakh from 4,415 orders.
 
- Highest revenue-generating and highest number of orders state is Maharashtra, with ₹1.22 crore from 22,259 orders.
+Interpretation -
+Maharashtra represents a mature, high-volume market, whereas Haryana appears more price-sensitive, with lower revenue per order.
 
-
-Lowest revenue-generating and lowest number of orders state is Haryana, with ₹26.5 lakh from 4,415 orders.
-
-
+Business Action -
+The business should focus retention and upsell strategies in Maharashtra, while using targeted pricing or regional offers to improve Haryana’s revenue efficiency.
 
 
 
@@ -134,6 +136,16 @@ Lowest revenue-generating and lowest number of orders state is Haryana, with ₹
 ## F. Average Order Value (AOV)
 
 Q.6 How does average order value vary by category and state?
+
+Key Finding -
+Ethnic Dresses have the highest AOV (₹927), while Tops show the lowest AOV (₹672).
+
+Interpretation -
+High-AOV categories indicate premium customer willingness, even if order volume is lower.
+
+Business Action
+Premium categories should receive brand-focused marketing, while low-AOV categories can be bundled or promoted to increase basket size.
+
 
 
 <img width="923" height="375" alt="Screenshot 2026-01-03 at 9 07 27 PM" src="https://github.com/user-attachments/assets/868644cc-dd38-45dd-b8fe-0b96bd7c08cc" />
