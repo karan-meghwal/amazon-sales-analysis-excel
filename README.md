@@ -7,8 +7,10 @@ Business analysis of Amazon sales data using Excel
 
 ![amazon Logo PNG Vector (SVG) Free Download](https://github.com/user-attachments/assets/7dfb4199-028c-4602-9b39-94f646e9dfaf)
 
+## Contents 
+* [Project Overview]
 
-Project Overview
+## Project Overview
 
 Amazon sellers operate in a highly competitive environment where revenue performance is influenced by product mix, customer behavior, and fulfillment efficiency. Order cancellations and regional demand variation can significantly impact realized revenue.
 
