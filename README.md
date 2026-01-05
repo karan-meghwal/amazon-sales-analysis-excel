@@ -8,7 +8,7 @@ Business analysis of Amazon sales data using Excel
 ![amazon Logo PNG Vector (SVG) Free Download](https://github.com/user-attachments/assets/7dfb4199-028c-4602-9b39-94f646e9dfaf)
 
 ## Contents 
-* [Project Overview]
+* [Project Overwiev)(## Project Overview)
 
 ## Project Overview
 
