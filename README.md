@@ -10,7 +10,9 @@ Business analysis of Amazon sales data using Excel
 ## Contents
 * [Project Overview](#project-overview)
 * [Buisness Qustions](#buisness-qustions)
-* [A.Overall Sales Performance](#aoverall-sales-performance)
+* [A. Overall Sales Performance](#aoverall-sales-performance)
+* [B. Category Performance](#bcategory-performance)
+* [C. Order Status Impact](#corder-status-impact)
 
 ## Project Overview
 
@@ -28,7 +30,7 @@ Executive Snapshot
 
 ## Buisness Qustions  
 
- ## A.Overall Sales Performance
+ ## A. Overall Sales Performance
  Q1. What is the total revenue and how does it trend over time?
 
 Key Finding -
