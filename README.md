@@ -10,7 +10,7 @@ Business analysis of Amazon sales data using Excel
 ## Contents
 * [Project Overview](#project-overview)
 * [Buisness Qustions](#buisness-qustions)
-* [A.Overall Sales Performance](#a-overall-sales-performance)
+* [A Overall Sales Performance](#a-overall-sales-performance)
 
 ## Project Overview
 
