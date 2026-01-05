@@ -1,4 +1,4 @@
-# Amazon_sales_analysis_excel
+# Amazon Sales Analysis
 Business analysis of Amazon sales data using Excel
 
 
