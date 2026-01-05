@@ -7,8 +7,9 @@ Business analysis of Amazon sales data using Excel
 
 ![amazon Logo PNG Vector (SVG) Free Download](https://github.com/user-attachments/assets/7dfb4199-028c-4602-9b39-94f646e9dfaf)
 
-## Contents 
-* [Project Overwiev)(## Project Overview)
+## Contents
+* [Project Overview](#project-overview)
+* [Buisness Qustions](#buisness-qustions)
 
 ## Project Overview
 
@@ -24,7 +25,7 @@ Executive Snapshot
 	•	Set category contributes the highest revenue but also shows elevated cancellation risk
 	•	Maharashtra leads sales performance, highlighting opportunities for region-specific optimization
 
-## BUISNESS QUSTIONS  
+## Buisness Qustions  
 
  ## A. Overall Sales Performance
  Q1. What is the total revenue and how does it trend over time?
