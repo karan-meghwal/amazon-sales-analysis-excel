@@ -13,6 +13,9 @@ Business analysis of Amazon sales data using Excel
 * [A. Overall Sales Performance](#a-overall-sales-performance)
 * [B. Category Performance](#b-category-performance)
 * [C. Order Status Impact](#c-order-status-impact)
+* [ D. Cancellation Analysis](#d-cancellation-analysis)
+* [E. Geographic Performance](#e-geographic-performance)
+* [F. Average Order Value (AOV)](#f-average-order-value)
 
 ## Project Overview
 
@@ -117,7 +120,7 @@ The business should focus retention and upsell strategies in Maharashtra, while 
 
 
 
-## F. Average Order Value (AOV)
+## F. Average Order Value 
 
 Q.6 How does average order value vary by category and state?
 
