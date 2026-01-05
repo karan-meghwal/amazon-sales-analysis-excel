@@ -10,9 +10,9 @@ Business analysis of Amazon sales data using Excel
 ## Contents
 * [Project Overview](#project-overview)
 * [Buisness Qustions](#buisness-qustions)
-* [A. Overall Sales Performance](#aoverall-sales-performance)
-* [B. Category Performance](#bcategory-performance)
-* [C. Order Status Impact](#corder-status-impact)
+* [A. Overall Sales Performance](#a-overall-sales-performance)
+* [B. Category Performance](#b-category-performance)
+* [C. Order Status Impact](#c-order-status-impact)
 
 ## Project Overview
 
